@@ -20,7 +20,7 @@ function App() {
   return (
     <Web3ReactProvider getLibrary={getLibrary}>
       <div className="App">
-        <Header />
+        {/* <Header />
         <Content>
           <Container text textAlign="center">
             <Image
@@ -32,7 +32,8 @@ function App() {
             <p>Ramsey Njema DApp</p>
           </Container>
         </Content>
-        <Footer />
+        <Footer /> */}
+        <p>Hello World</p>
       </div>
     </Web3ReactProvider>
   );
