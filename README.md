@@ -1,6 +1,11 @@
-# Starter Kits
+<div align=center> 
+<img src="https://avatars.githubusercontent.com/u/88427645?s=200&v=4" style="border-radius:10px">
+</div>
 
-An Polygon Starter Kit Tutorial containing React, @web3-react, Alchemy.
+<center> Starter Kits 快速构建 DAPP </center>
+
+<center> An Polygon Starter Kit Tutorial containing React, @web3-react, Infura. </center>
+<div align=center> <a href="https://docs.matic.network/docs/develop/getting-started"> Developer Docs</a> - <a href="https://polygon-tutorial.soildstake.net"> Tutorial </a></div> 
 
 # 0. Environment Setup
 
@@ -9,14 +14,6 @@ Install fundamental environments, including node, web3, react, truffle, etc
 \0. Environment Setup
 
 # Install Ganache、Truffle
-
-![img](https://avatars.githubusercontent.com/u/88427645?s=200&v=4)
-
-Use Starter Kits build your DAPP right away!
-
-An Polygon Starter Kit Tutorial containing React, @web3-react, Alchemy.
-
-[Developer Docs](https://docs.matic.network/docs/develop/getting-started) - [A Polygon Starter Kit tutorial from Alchemy](https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smart-contract)
 
 #### Install ganache
 
