@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/88427645?s=200&v=4" style="border-radius:10px">
 </div>
 
-<center> Starter Kits 快速构建 DAPP </center>
+<center> Starter Kits - DAPP </center>
 
 <center> An Polygon Starter Kit Tutorial containing React, @web3-react, Infura. </center>
 <div align=center> <a href="https://docs.matic.network/docs/develop/getting-started"> Developer Docs</a> - <a href="https://polygon-tutorial.soildstake.net"> Tutorial </a></div> 
@@ -11,7 +11,6 @@
 
 Install fundamental environments, including node, web3, react, truffle, etc
 
-\0. Environment Setup
 
 # Install Ganache、Truffle
 
